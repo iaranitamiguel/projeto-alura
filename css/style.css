@@ -1,4 +1,21 @@
 body {
     background-color: #000000;
-    color: white;
+    color: #f6f6f6;
+}
+
+strong {
+    color:#22D4FD;
+}
+
+a {
+    color: #ffffff;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    display: block;
+    
 }
